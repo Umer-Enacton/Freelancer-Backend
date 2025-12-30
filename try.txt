@@ -1,0 +1,25 @@
+const breaks = [
+  {
+    breakIn: "2025-12-25T04:30:18.179Z",
+    breakOut: "2025-12-25T04:31:14.513Z",
+    isActive: false,
+    durationMinutes: 3,
+  },
+  {
+    breakIn: "2025-12-25T04:31:28.361Z",
+    breakOut: "2025-12-25T04:32:47.981Z",
+    isActive: false,
+    durationMinutes: 2,
+  },
+];
+// console.log(breaks);
+// let sum = 0;
+// breaks.forEach((b) => {
+//   sum = sum + b.durationMinutes;
+//   console.log(b.durationMinutes);
+// });
+
+const breakTimeMinutes = breaks.reduce((sum, b) => {
+  return sum + b.durationMinutes;
+}, 0);
+console.log(breakTimeMinutes);  

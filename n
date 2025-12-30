@@ -1,0 +1,26 @@
+-summary route
+provide summary of a project based on sessions (checkIn , checkOut,BreakIn,breakOut)
+
+first of all the routes take a timeEntry id of a project as a parameter(arguments in url)
+
+getTimeEntries( )  function get all time entries exsit in file
+then find particular timeEntry by id that timeEntry id in url as parameter
+
+if found then
+based on this timeEntry fetch all sessions of that particular project/timeEntry
+
+//multiple session & breaks in it
+
+give all summary
+totalSessionCount   // session.length
+totalbreakscount 
+
+totalDuration in Minutes  // by adding all sessions timeDuration
+
+totalDuration // in days,hours,minutes  // a function named ConvertMinutes(minutes)  takes durationInMinutes as argument and calculate days hours and minutes for the total minutes
+
+in conclusion the route returns whole summary of a complted project incluing total working time , excluding breaktime , total chekins and total breaks
+
+user -> (projects -> (projects and its  time entries-> ( sessions -> sessionummary)))
+
+2*session -> obj 

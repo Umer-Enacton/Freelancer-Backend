@@ -1,0 +1,274 @@
+[
+  {
+    "id": 1766578063454,
+    "userId": 1766486496671,
+    "projectId": 1766578010195,
+    "completed": true,
+    "date": "24/12/2025",
+    "createdAt": "2025-12-24T12:07:43.454Z",
+    "completedAt": "2025-12-25T07:49:14.213Z",
+    "TotalWorkingDays": {
+      "days": 1,
+      "hours": 19,
+      "minutes": 41,
+      "totalHours": 19,
+      "totalMinutes": 1181
+    }
+  },
+  {
+    "id": 1766642632107,
+    "userId": 1766486496671,
+    "projectId": 1766642619862,
+    "completed": true,
+    "date": "25/12/2025",
+    "createdAt": "2025-12-25T06:03:52.107Z",
+    "completedAt": "2025-12-25T09:21:29.805Z",
+    "TotalWorkingDays": {
+      "days": 1,
+      "hours": 3,
+      "minutes": 17,
+      "totalHours": 3,
+      "totalMinutes": 197
+    }
+  },
+  {
+    "id": 1767100000013,
+    "userId": 1766486496671,
+    "projectId": 1767100000001,
+    "completed": true,
+    "date": "26/12/2025",
+    "createdAt": "2025-12-26T08:35:00.000Z",
+    "completedAt": "2025-12-26T18:45:00.000Z",
+    "TotalWorkingDays": {
+      "days": 1,
+      "hours": 10,
+      "minutes": 10,
+      "totalHours": 10,
+      "totalMinutes": 610
+    }
+  },
+  {
+    "id": 1767100000014,
+    "userId": 1766486496671,
+    "projectId": 1767100000001,
+    "completed": true,
+    "date": "27/12/2025",
+    "createdAt": "2025-12-27T09:00:00.000Z",
+    "completedAt": "2025-12-27T17:30:00.000Z",
+    "TotalWorkingDays": {
+      "days": 1,
+      "hours": 8,
+      "minutes": 30,
+      "totalHours": 8,
+      "totalMinutes": 510
+    }
+  },
+  {
+    "id": 1767100000015,
+    "userId": 1766486496671,
+    "projectId": 1767100000002,
+    "completed": true,
+    "date": "27/12/2025",
+    "createdAt": "2025-12-27T10:20:00.000Z",
+    "completedAt": "2025-12-27T15:45:00.000Z",
+    "TotalWorkingDays": {
+      "days": 1,
+      "hours": 5,
+      "minutes": 25,
+      "totalHours": 5,
+      "totalMinutes": 325
+    }
+  },
+  {
+    "id": 1767100000016,
+    "userId": 1766486496671,
+    "projectId": 1767100000003,
+    "completed": false,
+    "date": "28/12/2025",
+    "createdAt": "2025-12-28T14:25:00.000Z"
+  },
+  {
+    "id": 1767100000017,
+    "userId": 1766490306458,
+    "projectId": 1767100000004,
+    "completed": true,
+    "date": "23/12/2025",
+    "createdAt": "2025-12-23T09:10:00.000Z",
+    "completedAt": "2025-12-23T17:50:00.000Z",
+    "TotalWorkingDays": {
+      "days": 1,
+      "hours": 8,
+      "minutes": 40,
+      "totalHours": 8,
+      "totalMinutes": 520
+    }
+  },
+  {
+    "id": 1767100000018,
+    "userId": 1766490306458,
+    "projectId": 1767100000004,
+    "completed": true,
+    "date": "24/12/2025",
+    "createdAt": "2025-12-24T08:30:00.000Z",
+    "completedAt": "2025-12-24T16:15:00.000Z",
+    "TotalWorkingDays": {
+      "days": 1,
+      "hours": 7,
+      "minutes": 45,
+      "totalHours": 7,
+      "totalMinutes": 465
+    }
+  },
+  {
+    "id": 1767100000019,
+    "userId": 1766490306458,
+    "projectId": 1767100000005,
+    "completed": true,
+    "date": "24/12/2025",
+    "createdAt": "2025-12-24T11:35:00.000Z",
+    "completedAt": "2025-12-24T19:20:00.000Z",
+    "TotalWorkingDays": {
+      "days": 1,
+      "hours": 7,
+      "minutes": 45,
+      "totalHours": 7,
+      "totalMinutes": 465
+    }
+  },
+  {
+    "id": 1767100000020,
+    "userId": 1766490306458,
+    "projectId": 1767100000006,
+    "completed": true,
+    "date": "25/12/2025",
+    "createdAt": "2025-12-25T13:50:00.000Z",
+    "completedAt": "2025-12-25T20:30:00.000Z",
+    "TotalWorkingDays": {
+      "days": 1,
+      "hours": 6,
+      "minutes": 40,
+      "totalHours": 6,
+      "totalMinutes": 400
+    }
+  },
+  {
+    "id": 1767100000022,
+    "userId": 1766760781026,
+    "projectId": 1767100000008,
+    "completed": true,
+    "date": "22/12/2025",
+    "createdAt": "2025-12-22T08:05:00.000Z",
+    "completedAt": "2025-12-22T18:25:00.000Z",
+    "TotalWorkingDays": {
+      "days": 1,
+      "hours": 10,
+      "minutes": 20,
+      "totalHours": 10,
+      "totalMinutes": 620
+    }
+  },
+  {
+    "id": 1767100000023,
+    "userId": 1766760781026,
+    "projectId": 1767100000008,
+    "completed": true,
+    "date": "23/12/2025",
+    "createdAt": "2025-12-23T07:30:00.000Z",
+    "completedAt": "2025-12-23T16:45:00.000Z",
+    "TotalWorkingDays": {
+      "days": 1,
+      "hours": 9,
+      "minutes": 15,
+      "totalHours": 9,
+      "totalMinutes": 555
+    }
+  },
+  {
+    "id": 1767100000024,
+    "userId": 1766760781026,
+    "projectId": 1767100000009,
+    "completed": true,
+    "date": "23/12/2025",
+    "createdAt": "2025-12-23T10:35:00.000Z",
+    "completedAt": "2025-12-23T17:50:00.000Z",
+    "TotalWorkingDays": {
+      "days": 1,
+      "hours": 7,
+      "minutes": 15,
+      "totalHours": 7,
+      "totalMinutes": 435
+    }
+  },
+  {
+    "id": 1767100000025,
+    "userId": 1766760781026,
+    "projectId": 1767100000010,
+    "completed": true,
+    "date": "24/12/2025",
+    "createdAt": "2025-12-24T12:50:00.000Z",
+    "completedAt": "2025-12-24T19:35:00.000Z",
+    "TotalWorkingDays": {
+      "days": 1,
+      "hours": 6,
+      "minutes": 45,
+      "totalHours": 6,
+      "totalMinutes": 405
+    }
+  },
+  {
+    "id": 1767100000026,
+    "userId": 1766760781026,
+    "projectId": 1767100000011,
+    "completed": true,
+    "date": "25/12/2025",
+    "createdAt": "2025-12-25T15:25:00.000Z",
+    "completedAt": "2025-12-25T21:10:00.000Z",
+    "TotalWorkingDays": {
+      "days": 1,
+      "hours": 5,
+      "minutes": 45,
+      "totalHours": 5,
+      "totalMinutes": 345
+    }
+  },
+  {
+    "id": 1767100000027,
+    "userId": 1766760781026,
+    "projectId": 1767100000012,
+    "completed": true,
+    "date": "26/12/2025",
+    "createdAt": "2025-12-26T09:20:00.000Z",
+    "completedAt": "2025-12-30T05:55:08.181Z",
+    "TotalWorkingDays": {
+      "days": 4,
+      "hours": 20,
+      "minutes": 35,
+      "totalHours": 92,
+      "totalMinutes": 5555
+    }
+  },
+  {
+    "id": 1767087427036,
+    "userId": 1766490306458,
+    "projectId": 1767087409439,
+    "completed": true,
+    "date": "30/12/2025",
+    "createdAt": "2025-12-30T09:37:07.036Z",
+    "completedAt": "2025-12-30T09:38:12.518Z",
+    "TotalWorkingDays": {
+      "days": 1,
+      "hours": 0,
+      "minutes": 1,
+      "totalHours": 0,
+      "totalMinutes": 1
+    }
+  },
+  {
+    "id": 1767092705772,
+    "userId": 1766490306458,
+    "projectId": 1767092704426,
+    "completed": false,
+    "date": "30/12/2025",
+    "createdAt": "2025-12-30T11:05:05.772Z"
+  }
+]

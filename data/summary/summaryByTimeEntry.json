@@ -1,0 +1,542 @@
+[
+  {
+    "id": 1766652408596,
+    "timeEntryId": "1766578063454",
+    "TotalSessions": 2,
+    "TotalBreaks": 2,
+    "Net_WorkTimeMinutes": 21,
+    "Net_WorkTime": {
+      "days": 0,
+      "hours": 0,
+      "minutes": 21
+    },
+    "TotalBreakTimeMinutes": 2,
+    "GrossTimeMinutes": 23,
+    "GrossTime": {
+      "days": 0,
+      "hours": 0,
+      "minutes": 23
+    },
+    "createdAt": "2025-12-25T08:46:48.596Z"
+  },
+  {
+    "id": 1766654848108,
+    "timeEntryId": "1766642632107",
+    "TotalSessions": 2,
+    "TotalBreaks": 3,
+    "Net_WorkTimeMinutes": 13,
+    "Net_WorkTime": {
+      "days": 0,
+      "hours": 0,
+      "minutes": 13
+    },
+    "TotalBreakTimeMinutes": 5,
+    "GrossTimeMinutes": 18,
+    "GrossTime": {
+      "days": 0,
+      "hours": 0,
+      "minutes": 18
+    },
+    "createdAt": "2025-12-25T09:27:28.109Z"
+  },
+  {
+    "id": 1766761132935,
+    "timeEntryId": "1766761015576",
+    "TotalSessions": 2,
+    "TotalBreaks": 5,
+    "Net_WorkTimeMinutes": 0,
+    "Net_WorkTime": {
+      "days": 0,
+      "hours": 0,
+      "minutes": 0
+    },
+    "TotalBreakTimeMinutes": 0,
+    "GrossTimeMinutes": 0,
+    "GrossTime": {
+      "days": 0,
+      "hours": 0,
+      "minutes": 0
+    },
+    "createdAt": "2025-12-26T14:58:52.935Z"
+  },
+  {
+    "id": 1766986599694,
+    "timeEntryId": "1766986198199",
+    "TotalSessions": 1,
+    "TotalBreaks": 2,
+    "Net_WorkTimeMinutes": 4,
+    "Net_WorkTime": {
+      "days": 0,
+      "hours": 0,
+      "minutes": 4
+    },
+    "TotalBreakTimeMinutes": 2.7199999999999998,
+    "GrossTimeMinutes": 6.72,
+    "GrossTime": {
+      "days": 0,
+      "hours": 0,
+      "minutes": 6.72
+    },
+    "createdAt": "2025-12-29T05:36:39.694Z"
+  },
+  {
+    "id": 1766987898553,
+    "timeEntryId": "1766987516800",
+    "TotalSessions": 1,
+    "TotalBreaks": 1,
+    "Net_WorkTimeMinutes": 4,
+    "Net_WorkTime": {
+      "days": 0,
+      "hours": 0,
+      "minutes": 4
+    },
+    "TotalBreakTimeMinutes": 1.08,
+    "GrossTimeMinutes": 5.08,
+    "GrossTime": {
+      "days": 0,
+      "hours": 0,
+      "minutes": 5.08
+    },
+    "createdAt": "2025-12-29T05:58:18.553Z"
+  },
+  {
+    "id": 1766988535992,
+    "timeEntryId": "1766988392489",
+    "TotalSessions": 1,
+    "TotalBreaks": 1,
+    "Net_WorkTimeMinutes": 1,
+    "Net_WorkTime": {
+      "days": 0,
+      "hours": 0,
+      "minutes": 1
+    },
+    "TotalBreakTimeMinutes": 0.43,
+    "GrossTimeMinutes": 1.43,
+    "GrossTime": {
+      "days": 0,
+      "hours": 0,
+      "minutes": 1.43
+    },
+    "createdAt": "2025-12-29T06:08:55.992Z"
+  },
+  {
+    "id": 1766996196762,
+    "timeEntryId": "1766996131935",
+    "TotalSessions": 1,
+    "TotalBreaks": 0,
+    "Net_WorkTimeMinutes": 0,
+    "Net_WorkTime": {
+      "days": 0,
+      "hours": 0,
+      "minutes": 0
+    },
+    "TotalBreakTimeMinutes": 0,
+    "GrossTimeMinutes": 0,
+    "GrossTime": {
+      "days": 0,
+      "hours": 0,
+      "minutes": 0
+    },
+    "createdAt": "2025-12-29T08:16:36.762Z"
+  },
+  {
+    "id": 1766996520759,
+    "timeEntryId": "1766996490358",
+    "TotalSessions": 1,
+    "TotalBreaks": 1,
+    "Net_WorkTimeMinutes": 0,
+    "Net_WorkTime": {
+      "days": 0,
+      "hours": 0,
+      "minutes": 0
+    },
+    "TotalBreakTimeMinutes": 0.06,
+    "GrossTimeMinutes": 0.06,
+    "GrossTime": {
+      "days": 0,
+      "hours": 0,
+      "minutes": 0.06
+    },
+    "createdAt": "2025-12-29T08:22:00.759Z"
+  },
+  {
+    "id": 1766999831298,
+    "timeEntryId": "1766999788934",
+    "TotalSessions": 1,
+    "TotalBreaks": 1,
+    "Net_WorkTimeMinutes": 0,
+    "Net_WorkTime": {
+      "days": 0,
+      "hours": 0,
+      "minutes": 0
+    },
+    "TotalBreakTimeMinutes": 0.1,
+    "GrossTimeMinutes": 0.1,
+    "GrossTime": {
+      "days": 0,
+      "hours": 0,
+      "minutes": 0.1
+    },
+    "createdAt": "2025-12-29T09:17:11.298Z"
+  },
+  {
+    "id": 1767000148920,
+    "timeEntryId": "1767000055467",
+    "TotalSessions": 1,
+    "TotalBreaks": 3,
+    "Net_WorkTimeMinutes": 1,
+    "Net_WorkTime": {
+      "days": 0,
+      "hours": 0,
+      "minutes": 1
+    },
+    "TotalBreakTimeMinutes": 0.41,
+    "GrossTimeMinutes": 1.41,
+    "GrossTime": {
+      "days": 0,
+      "hours": 0,
+      "minutes": 1.41
+    },
+    "createdAt": "2025-12-29T09:22:28.920Z"
+  },
+  {
+    "id": 1767000348342,
+    "timeEntryId": "1767000318343",
+    "TotalSessions": 1,
+    "TotalBreaks": 0,
+    "Net_WorkTimeMinutes": 0,
+    "Net_WorkTime": {
+      "days": 0,
+      "hours": 0,
+      "minutes": 0
+    },
+    "TotalBreakTimeMinutes": 0,
+    "GrossTimeMinutes": 0,
+    "GrossTime": {
+      "days": 0,
+      "hours": 0,
+      "minutes": 0
+    },
+    "createdAt": "2025-12-29T09:25:48.342Z"
+  },
+  {
+    "id": 1767000708378,
+    "timeEntryId": "1767000620565",
+    "TotalSessions": 1,
+    "TotalBreaks": 2,
+    "Net_WorkTimeMinutes": 1,
+    "Net_WorkTime": {
+      "days": 0,
+      "hours": 0,
+      "minutes": 1
+    },
+    "TotalBreakTimeMinutes": 0.22,
+    "GrossTimeMinutes": 1.22,
+    "GrossTime": {
+      "days": 0,
+      "hours": 0,
+      "minutes": 1.22
+    },
+    "createdAt": "2025-12-29T09:31:48.379Z"
+  },
+  {
+    "id": 1767000870785,
+    "timeEntryId": "1767000727376",
+    "TotalSessions": 1,
+    "TotalBreaks": 1,
+    "Net_WorkTimeMinutes": 1,
+    "Net_WorkTime": {
+      "days": 0,
+      "hours": 0,
+      "minutes": 1
+    },
+    "TotalBreakTimeMinutes": 0.06,
+    "GrossTimeMinutes": 1.06,
+    "GrossTime": {
+      "days": 0,
+      "hours": 0,
+      "minutes": 1.06
+    },
+    "createdAt": "2025-12-29T09:34:30.785Z"
+  },
+  {
+    "id": 1767001495802,
+    "timeEntryId": "1767000813720",
+    "TotalSessions": 2,
+    "TotalBreaks": 2,
+    "Net_WorkTimeMinutes": 0,
+    "Net_WorkTime": {
+      "days": 0,
+      "hours": 0,
+      "minutes": 0
+    },
+    "TotalBreakTimeMinutes": 0.15,
+    "GrossTimeMinutes": 0.15,
+    "GrossTime": {
+      "days": 0,
+      "hours": 0,
+      "minutes": 0.15
+    },
+    "createdAt": "2025-12-29T09:44:55.802Z"
+  },
+  {
+    "id": 1767006977957,
+    "timeEntryId": "1767006961715",
+    "TotalSessions": 1,
+    "TotalBreaks": 1,
+    "Net_WorkTimeMinutes": 0,
+    "Net_WorkTime": {
+      "days": 0,
+      "hours": 0,
+      "minutes": 0
+    },
+    "TotalBreakTimeMinutes": 0.01,
+    "GrossTimeMinutes": 0.01,
+    "GrossTime": {
+      "days": 0,
+      "hours": 0,
+      "minutes": 0.01
+    },
+    "createdAt": "2025-12-29T11:16:17.957Z"
+  },
+  {
+    "id": 1767069268637,
+    "timeEntryId": "1767002186728",
+    "TotalSessions": 6,
+    "TotalBreaks": 2,
+    "Net_WorkTimeMinutes": 0,
+    "Net_WorkTime": {
+      "days": 0,
+      "hours": 0,
+      "minutes": 0
+    },
+    "TotalBreakTimeMinutes": 0.53,
+    "GrossTimeMinutes": 0.53,
+    "GrossTime": {
+      "days": 0,
+      "hours": 0,
+      "minutes": 0.53
+    },
+    "createdAt": "2025-12-30T04:34:28.637Z"
+  },
+  {
+    "id": 1767070537095,
+    "timeEntryId": "1767100000020",
+    "TotalSessions": 1,
+    "TotalBreaks": 2,
+    "Net_WorkTimeMinutes": 370,
+    "Net_WorkTime": {
+      "days": 0,
+      "hours": 6,
+      "minutes": 10
+    },
+    "TotalBreakTimeMinutes": 60,
+    "GrossTimeMinutes": 430,
+    "GrossTime": {
+      "days": 0,
+      "hours": 7,
+      "minutes": 10
+    },
+    "createdAt": "2025-12-30T04:55:37.095Z"
+  },
+  {
+    "id": 1767070543807,
+    "timeEntryId": "1767100000018",
+    "TotalSessions": 2,
+    "TotalBreaks": 2,
+    "Net_WorkTimeMinutes": 390,
+    "Net_WorkTime": {
+      "days": 0,
+      "hours": 6,
+      "minutes": 30
+    },
+    "TotalBreakTimeMinutes": 30,
+    "GrossTimeMinutes": 420,
+    "GrossTime": {
+      "days": 0,
+      "hours": 7,
+      "minutes": 0
+    },
+    "createdAt": "2025-12-30T04:55:43.807Z"
+  },
+  {
+    "id": 1767070556839,
+    "timeEntryId": "1767100000021",
+    "TotalSessions": 1,
+    "TotalBreaks": 1,
+    "Net_WorkTimeMinutes": 5076,
+    "Net_WorkTime": {
+      "days": 3,
+      "hours": 12,
+      "minutes": 36
+    },
+    "TotalBreakTimeMinutes": 15,
+    "GrossTimeMinutes": 5091,
+    "GrossTime": {
+      "days": 3,
+      "hours": 12,
+      "minutes": 51
+    },
+    "createdAt": "2025-12-30T04:55:56.839Z"
+  },
+  {
+    "id": 1767070685966,
+    "timeEntryId": "1767100000019",
+    "TotalSessions": 2,
+    "TotalBreaks": 3,
+    "Net_WorkTimeMinutes": 395,
+    "Net_WorkTime": {
+      "days": 0,
+      "hours": 6,
+      "minutes": 35
+    },
+    "TotalBreakTimeMinutes": 60,
+    "GrossTimeMinutes": 455,
+    "GrossTime": {
+      "days": 0,
+      "hours": 7,
+      "minutes": 35
+    },
+    "createdAt": "2025-12-30T04:58:05.966Z"
+  },
+  {
+    "id": 1767070881362,
+    "timeEntryId": "1767100000025",
+    "TotalSessions": 2,
+    "TotalBreaks": 2,
+    "Net_WorkTimeMinutes": 330,
+    "Net_WorkTime": {
+      "days": 0,
+      "hours": 5,
+      "minutes": 30
+    },
+    "TotalBreakTimeMinutes": 30,
+    "GrossTimeMinutes": 360,
+    "GrossTime": {
+      "days": 0,
+      "hours": 6,
+      "minutes": 0
+    },
+    "createdAt": "2025-12-30T05:01:21.362Z"
+  },
+  {
+    "id": 1767070889795,
+    "timeEntryId": "1767100000026",
+    "TotalSessions": 1,
+    "TotalBreaks": 1,
+    "Net_WorkTimeMinutes": 315,
+    "Net_WorkTime": {
+      "days": 0,
+      "hours": 5,
+      "minutes": 15
+    },
+    "TotalBreakTimeMinutes": 30,
+    "GrossTimeMinutes": 345,
+    "GrossTime": {
+      "days": 0,
+      "hours": 5,
+      "minutes": 45
+    },
+    "createdAt": "2025-12-30T05:01:29.795Z"
+  },
+  {
+    "id": 1767070892421,
+    "timeEntryId": "1767100000024",
+    "TotalSessions": 2,
+    "TotalBreaks": 2,
+    "Net_WorkTimeMinutes": 360,
+    "Net_WorkTime": {
+      "days": 0,
+      "hours": 6,
+      "minutes": 0
+    },
+    "TotalBreakTimeMinutes": 30,
+    "GrossTimeMinutes": 390,
+    "GrossTime": {
+      "days": 0,
+      "hours": 6,
+      "minutes": 30
+    },
+    "createdAt": "2025-12-30T05:01:32.421Z"
+  },
+  {
+    "id": 1767070894329,
+    "timeEntryId": "1767100000023",
+    "TotalSessions": 2,
+    "TotalBreaks": 2,
+    "Net_WorkTimeMinutes": 480,
+    "Net_WorkTime": {
+      "days": 0,
+      "hours": 8,
+      "minutes": 0
+    },
+    "TotalBreakTimeMinutes": 30,
+    "GrossTimeMinutes": 510,
+    "GrossTime": {
+      "days": 0,
+      "hours": 8,
+      "minutes": 30
+    },
+    "createdAt": "2025-12-30T05:01:34.330Z"
+  },
+  {
+    "id": 1767074108222,
+    "timeEntryId": "1767100000027",
+    "TotalSessions": 1,
+    "TotalBreaks": 1,
+    "Net_WorkTimeMinutes": 0,
+    "Net_WorkTime": {
+      "days": 0,
+      "hours": 0,
+      "minutes": 0
+    },
+    "TotalBreakTimeMinutes": 15,
+    "GrossTimeMinutes": 15,
+    "GrossTime": {
+      "days": 0,
+      "hours": 0,
+      "minutes": 15
+    },
+    "createdAt": "2025-12-30T05:55:08.222Z"
+  },
+  {
+    "id": 1767087492546,
+    "timeEntryId": "1767087427036",
+    "TotalSessions": 3,
+    "TotalBreaks": 3,
+    "Net_WorkTimeMinutes": 0,
+    "Net_WorkTime": {
+      "days": 0,
+      "hours": 0,
+      "minutes": 0
+    },
+    "TotalBreakTimeMinutes": 0.18,
+    "GrossTimeMinutes": 0.18,
+    "GrossTime": {
+      "days": 0,
+      "hours": 0,
+      "minutes": 0.18
+    },
+    "createdAt": "2025-12-30T09:38:12.547Z"
+  },
+  {
+    "id": 1767091761289,
+    "timeEntryId": "1767091609082",
+    "TotalSessions": 3,
+    "TotalBreaks": 3,
+    "Net_WorkTimeMinutes": 0,
+    "Net_WorkTime": {
+      "days": 0,
+      "hours": 0,
+      "minutes": 0
+    },
+    "TotalBreakTimeMinutes": 0.07,
+    "GrossTimeMinutes": 0.07,
+    "GrossTime": {
+      "days": 0,
+      "hours": 0,
+      "minutes": 0.07
+    },
+    "createdAt": "2025-12-30T10:49:21.289Z"
+  }
+]

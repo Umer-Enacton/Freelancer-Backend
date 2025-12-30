@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1766486496671,
+    "name": "Vikram",
+    "email": "vikramsingh76@gmail.com",
+    "password": "$2b$10$RvogB/i0vbmNpLWelxSwk.O9aNLwZAcUN34GS3qrwVKiR1CAg3YIq",
+    "createdAt": "2025-12-23T10:41:36.671Z"
+  },
+  {
+    "id": 1766490306458,
+    "name": "Umer",
+    "email": "umersaiyad76@gmail.com",
+    "password": "$2b$10$NOfDhF1uMWIJHasWWeuTxumQq4db89Os8Zl809MSokn5Axx/QeW.m",
+    "createdAt": "2025-12-23T11:45:06.458Z"
+  },
+  {
+    "id": 1766760781026,
+    "name": "Jitendra Suthar",
+    "email": "jitu76@gmail.com",
+    "password": "$2b$10$wOd35lm2PCzGRUwVzK5j8.lAa3HFqu/DwI52Uq2BwZjMSp4xlCF9K",
+    "createdAt": "2025-12-26T14:53:01.026Z"
+  },
+  {
+    "id": 1767097102377,
+    "name": "Zeel Saiyad",
+    "email": "zeel@gmail.com",
+    "password": "$2b$10$.hww7H4KwUljzneVgwTR8OcHfMkhj74mPSE9Kgsz6vwSTwwRvoUZi",
+    "createdAt": "2025-12-30T12:18:22.377Z"
+  }
+]
