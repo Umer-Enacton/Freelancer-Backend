@@ -11,8 +11,7 @@ const app = express();
 const port = 5000;
 app.use(
   cors({
-    origin: "https://freelancer-ten-pied.vercel.app/",
-    methods: ["GET", "POST", "PUT", "DELETE"],
+    origin: ["https://freelancer-frontend.vercel.app", "http://localhost:5173"],
     credentials: true,
   })
 );
