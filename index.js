@@ -9,12 +9,18 @@ const authRoutes = require("./routes/auth.route");
 const cors = require("cors");
 const app = express();
 const port = 5000;
+import cors from "cors";
+import express from "express";
+
 app.use(
   cors({
     origin: ["https://freelancer-ten-pied.vercel.app", "http://localhost:5173"],
+    methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
+    allowedHeaders: ["Content-Type", "Authorization"],
     credentials: true,
   })
 );
+app.options("*", cors());
 
 app.use(express.json());
 app.get("/", (req, res) => {
