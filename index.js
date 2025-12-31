@@ -9,6 +9,8 @@ const authRoutes = require("./routes/auth.route");
 const cors = require("cors");
 const app = express();
 const port = 5000;
+import cors from "cors";
+import express from "express";
 
 app.use(
   cors({
