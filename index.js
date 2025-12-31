@@ -12,15 +12,15 @@ const port = 5000;
 import cors from "cors";
 import express from "express";
 
-// app.use(
-//   cors({
-//     origin: "*",
-//     methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
-//     allowedHeaders: ["Content-Type", "Authorization"],
-//     credentials: true,
-//   })
-// );
-app.use(cors());
+app.use(
+  cors({
+    origin: ["https://freelancer-ten-pied.vercel.app", "http://localhost:5173"],
+    methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
+    allowedHeaders: ["Content-Type", "Authorization"],
+  })
+);
+
+// app.use(cors());
 app.use(express.json());
 app.get("/", (req, res) => {
   res.send("Hello World");
