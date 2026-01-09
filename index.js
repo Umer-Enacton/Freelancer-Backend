@@ -131,8 +131,7 @@ app.get("/", (req, res) => {
         <div class="section">
           <h2>Links</h2>
           <div class="info-box">
-            <p><strong>Frontend:</strong> <a href="https://freelancer-ten-pied.vercel.app" target="_blank">Open App</a></p>
-            <p><strong>Backend:</strong> <a href="https://your-backend-url.com" target="_blank">API Base URL</a></p>
+            <p><strong>Visit Frontend:</strong> <a href="https://freelancer-ten-pied.vercel.app" target="_blank">Open App</a></p>
           </div>
         </div>
 
