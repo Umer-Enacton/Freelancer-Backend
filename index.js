@@ -115,7 +115,7 @@ app.get("/", (req, res) => {
             <span class="badge">Node.js</span>
             <span class="badge">Express.js</span>
             <span class="badge">JWT Auth</span>
-            <span class="badge">MySQL / MongoDB</span>
+            <span class="badge">File Storage</span>
           </div>
         </div>
 
